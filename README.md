@@ -1,4 +1,4 @@
-## Ccourse selling website
+## Course selling website
 
 ### Description
 Functionally the same as CoursesApp_HTTPS_Server_JWT.
